@@ -1,0 +1,363 @@
+
+.header-padding {
+    height: 26px;
+    background: url("../images/banner-bg.jpg");
+}
+
+.index-banner {
+    height: 464px;
+    background: url("../images/banner-bg.jpg");
+}
+
+.index-banner .back-btn {
+    float: left;
+    margin-left: -88px;
+    margin-top: 200px;
+}
+
+.index-banner .banner-content {
+    float: left;
+    margin-top: 42px;
+}
+
+.index-banner .banner-content .dashed {
+    margin-top: 11px;
+    margin-bottom: 20px;
+    margin-left: 2px;
+    width: 602px;
+    border-top: 4px dashed #b4b6b9;
+    box-shadow: 0 4px 3px #797b80;
+}
+
+.index-banner .banner-content .banner-text {
+    width: 500px;
+    margin-left: 2px;
+    font-family: Tahoma,Arial,sans-serif;
+    font-size: 16px;
+    color: #fdfdfd;
+    text-shadow: 1px 2px #000;
+}
+
+.index-banner .banner-content .banner-btn-bar .banner-btn {
+    float: left;
+    margin-top: 20px;
+    margin-right: 94px;
+    width: 111px;
+    height: 111px;
+    background: url("../images/banner-btn.png") no-repeat;
+    text-align: center;
+    line-height: 1.2;
+    font-size: 83px;
+    text-shadow: 1px 1px #000;
+}
+
+.index-banner .banner-content .banner-btn-bar .banner-btn a {
+    color: #e9f0df;
+}
+
+.index-banner .banner-content .banner-btn-bar .banner-btn:first-child {
+    margin-left: 10px;
+}
+
+.index-banner .banner-content .banner-btn-bar .banner-btn:last-child {
+    margin-right: 0;
+}
+
+.index-banner .banner-pic {
+    float: left;
+    margin-left: -99px;
+    margin-top: -8px;
+    width: 495px;
+    height: 472px;
+    background: url("../images/banner-computer.png") no-repeat;
+}
+
+.index-banner .next-btn {
+    float: right;
+    margin-right: -82px;
+    margin-top: 200px;
+}
+
+.index-banner .banner-footer {
+    position: relative;
+    height: 70px;
+    padding-top: 1px;
+    background-color: #2b3a41;
+    box-shadow: 0 2px 3px #000;
+}
+
+.index-banner .banner-footer .line {
+    height: 68px;
+    border-top: 1px solid #6c767b;
+    border-bottom: 1px solid #6c767b;
+    background-color: #2b3a41;
+}
+
+.index-banner .banner-footer .line .text {
+    float: left;
+    margin-top: 30px;
+    font-size: 15px;
+    color: #eaebec;
+}
+
+.index-banner .banner-footer .line .banner-connect-btn {
+    float: right;
+    margin-top: 18px;
+    margin-right: 94px;
+    width: 196px;
+    height: 34px;
+    color: #fff;
+    font-weight: bold;
+    background: -webkit-linear-gradient(#acdb53, #6eb82b); /* Safari 5.1 - 6.0 */
+    background: -o-linear-gradient(#acdb53, #6eb82b); /* Opera 11.1 - 12.0 */
+    background: -moz-linear-gradient(#acdb53, #6eb82b); /* Firefox 3.6 - 15 */
+    background: linear-gradient(#acdb53, #6eb82b); /* 标准的语法（必须放在最后） */
+    border-radius: 5px;
+}
+
+.index-content {
+    height: 802px;
+    margin-top: 70px;
+}
+
+.index-content .index-content-top {
+    height: 124px;
+    background: url("../images/content-top-bg.jpg");
+}
+
+.index-content .index-content-body {
+    height: 680px;
+    background: url("../images/content-body-bg.jpg");
+}
+
+.index-content .index-content-top .top-info {
+    float: left;
+    width: 384px;
+    padding-top: 22px;
+    font-family: Tahoma, Arial, sans-serif;
+    line-height: 1.4;
+}
+
+.index-content .index-content-top .top-info span {
+    color: #50678b;
+    font-size: 13px;
+}
+
+.index-content .index-content-top .top-item {
+    float: right;
+    height: 88px;
+    margin-top: 16px;
+    background: -webkit-linear-gradient(#fff, #efefef); /* Safari 5.1 - 6.0 */
+    background: -o-linear-gradient(#fff, #efefef); /* Opera 11.1 - 12.0 */
+    background: -moz-linear-gradient(#fff, #efefef); /* Firefox 3.6 - 15 */
+    background: linear-gradient(#fff, #efefef); /* 标准的语法（必须放在最后） */
+    box-shadow: 0 1px 3px #000;
+    border-radius: 3px;
+}
+
+.index-content .index-content-top .top-item .square {
+    float: left;
+    margin-right: 22px;
+    margin-top: 22px;
+}
+
+.index-content .index-content-top .top-item .square:first-child {
+    margin-left: 10px;
+}
+
+.index-content .index-content-top .top-item .irregular {
+    float: left;
+    margin-right: 22px;
+    margin-top: 15px;
+}
+
+.index-content .index-content-top .top-item .irregular:last-child {
+    margin-right: 10px;
+}
+
+.index-content .index-content-body .content-tabs {
+    float: left;
+    margin-top: 40px;
+    width: 510px;
+    height: 564px;
+    background: url("../images/content-body-tabs-bg.jpg");
+    box-shadow: 0 1px 2px #000;
+}
+
+.index-content .index-content-body .content-tabs .tabs-header {
+    height: 56px;
+    width: 510px;
+    border-radius: 4px;
+    background: -webkit-linear-gradient(#acdb53, #6eb82b); /* Safari 5.1 - 6.0 */
+    background: -o-linear-gradient(#acdb53, #6eb82b); /* Opera 11.1 - 12.0 */
+    background: -moz-linear-gradient(#acdb53, #6eb82b); /* Firefox 3.6 - 15 */
+    background: linear-gradient(#acdb53, #6eb82b); /* 标准的语法（必须放在最后） */
+    box-shadow: 0 1px 3px #000;
+}
+
+.index-content .index-content-body .content-tabs .tabs-header .tabs-btn {
+    float: left;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 16px;
+    height: 40px;
+    border-right: 1px solid #000;
+    background: -webkit-linear-gradient(#acdb53, #6eb82b); /* Safari 5.1 - 6.0 */
+    background: -o-linear-gradient(#acdb53, #6eb82b); /* Opera 11.1 - 12.0 */
+    background: -moz-linear-gradient(#acdb53, #6eb82b); /* Firefox 3.6 - 15 */
+    background: linear-gradient(#acdb53, #6eb82b); /* 标准的语法（必须放在最后） */
+    color: #fff;
+}
+
+.index-content .index-content-body .content-tabs .tabs-header .tabs-btn a {
+    font-family: Tahoma, Arial, sans-serif;
+}
+
+.index-content .index-content-body .content-tabs .tabs-header .active {
+    background: url("../images/content-body-tabs-bg.jpg");
+    margin-bottom: -3px;
+    color: #000;
+}
+
+.index-content .index-content-body .content-tabs .tabs-header .tabs-btn:first-child {
+    margin-left: 20px;
+}
+
+.index-content .index-content-body .content-tabs .tabs-item {
+    height: 158px;
+}
+
+.index-content .index-content-body .content-tabs .tabs-item img {
+    float: left;
+    margin-top: 22px;
+    margin-left: 16px;
+}
+
+.index-content .index-content-body .content-tabs .tabs-item p {
+    float: left;
+    margin-left: 32px;
+    margin-top: 22px;
+    width: 328px;
+    font-size: 13px;
+    color: #393a39;
+    font-family: Tahoma, Arial, sans-serif;
+    line-height: 1.6;
+}
+
+.index-content .index-content-body .content-tabs .tabs-item a {
+    float: right;
+    margin-right: 32px;
+    width: 80px;
+    height: 26px;
+    background: -webkit-linear-gradient(#ededed, #cecece); /* Safari 5.1 - 6.0 */
+    background: -o-linear-gradient(#ededed, #cecece); /* Opera 11.1 - 12.0 */
+    background: -moz-linear-gradient(#ededed, #cecece); /* Firefox 3.6 - 15 */
+    background: linear-gradient(#ededed, #cecece); /* 标准的语法*/
+    border: 1px solid #000;
+    border-radius: 3px;
+    font-size: 13px;
+    font-family: Tahoma, Arial, sans-serif;
+    text-align: center;
+    line-height: 1.8;
+}
+
+.index-content .index-content-body .content-tabs .line {
+    border-top: 1px solid #d3d5d6;
+    margin: 0 20px;
+}
+
+.index-content .index-content-body .news-list {
+    float: right;
+    margin-top: 40px;
+    height: 564px;
+    width: 452px;
+}
+
+.index-content .index-content-body .news-list .production .pro-pic {
+    float: left;
+    margin-top: 22px;
+    margin-left: 20px;
+}
+
+.index-content .index-content-body .news-list .production .txt-logo {
+    float: left;
+    margin-top: 30px;
+    margin-left: 10px;
+}
+
+.index-content .index-content-body  .news-list .production p {
+    float: left;
+    margin-left: 10px;
+    margin-top: 12px;
+    width: 190px;
+    font-family: Tahoma, Arial, sans-serif;
+    font-size: 13px;
+}
+
+.index-content .index-content-body .production {
+    width: 452px;
+    height: 230px;
+    margin-bottom: 32px;
+    background: url("../images/content-body-tabs-bg.jpg");
+    box-shadow: 0 1px 2px #000;
+}
+
+.index-content .index-content-body .production:last-child {
+    margin-top: 32px;
+}
+
+.index-content .index-content-body .production a {
+    float: right;
+    margin-right: 26px;
+    margin-top: 30px;
+    width: 114px;
+    height: 30px;
+    background: -webkit-linear-gradient(#ededed, #cecece); /* Safari 5.1 - 6.0 */
+    background: -o-linear-gradient(#ededed, #cecece); /* Opera 11.1 - 12.0 */
+    background: -moz-linear-gradient(#ededed, #cecece); /* Firefox 3.6 - 15 */
+    background: linear-gradient(#ededed, #cecece); /* 标准的语法*/
+    border: 1px solid #000;
+    border-radius: 3px;
+    font-size: 13px;
+    font-family: Tahoma, Arial, sans-serif;
+}
+
+.index-content .index-content-body .production .txt {
+    float: left;
+    margin-top: 6px;
+    margin-left: 20px;
+}
+
+.index-content .index-content-body .production .icon {
+    float: right;
+   background: url("../images/seemore.png") no-repeat;
+    width: 18px;
+    height: 18px;
+    margin-top: 6px;
+    margin-right: 6px;
+}
+
+.index-content .index-content-body .news-list .all-btn {
+    margin-top: -5px;
+    width: 452px;
+    height: 46px;
+    background: -webkit-linear-gradient(#acdb53, #6eb82b); /* Safari 5.1 - 6.0 */
+    background: -o-linear-gradient(#acdb53, #6eb82b); /* Opera 11.1 - 12.0 */
+    background: -moz-linear-gradient(#acdb53, #6eb82b); /* Firefox 3.6 - 15 */
+    background: linear-gradient(#acdb53, #6eb82b); /* 标准的语法（必须放在最后） */
+    color: #fff;
+}
+
+.all-btn .line {
+    display: inline-block;
+    margin-bottom: 18px;
+    height: 2px;
+    width: 68px;
+    background-color: #fff;
+    box-shadow: 0 1px 1px #000;
+}
+
+.all-btn img {
+    display: inline-block;
+    margin-top: 8px;
+}
